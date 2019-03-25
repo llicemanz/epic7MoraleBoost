@@ -1,0 +1,3723 @@
+﻿{
+  "achates": {
+    "chats": [
+      "comforting-cheer",
+      "myth"
+    ],
+    "values": {
+      "advice": 8,
+      "belief": 0,
+      "bizarre-story": 1,
+      "comforting-cheer": 6,
+      "complain": -2,
+      "criticism": -4,
+      "cute-cheer": 6,
+      "dream": 4,
+      "food-story": 0,
+      "gossip": 4,
+      "happy-memory": 5,
+      "heroic-cheer": 5,
+      "heroic-tale": -2,
+      "horror-story": -3,
+      "interesting-story": 3,
+      "joyful-memory": 5,
+      "myth": 2,
+      "occult": -1,
+      "reality-check": -6,
+      "sad-memory": 5,
+      "self-indulgent": -5,
+      "unique-comment": 0
+    }
+  },
+  "adlay": {
+    "chats": [
+      "heroic-tale",
+      "self-indulgent"
+    ],
+    "values": {
+      "advice": 0,
+      "belief": 2,
+      "bizarre-story": -2,
+      "comforting-cheer": 1,
+      "complain": -5,
+      "criticism": -2,
+      "cute-cheer": 3,
+      "dream": 5,
+      "food-story": 4,
+      "gossip": -2,
+      "happy-memory": 4,
+      "heroic-cheer": 6,
+      "heroic-tale": 5,
+      "horror-story": 2,
+      "interesting-story": 2,
+      "joyful-memory": 4,
+      "myth": 7,
+      "occult": 2,
+      "reality-check": -3,
+      "sad-memory": 2,
+      "self-indulgent": 1,
+      "unique-comment": 3
+    }
+  },
+  "aither": {
+    "chats": [
+      "heroic-tale",
+      "advice"
+    ],
+    "values": {
+      "advice": 2,
+      "belief": 1,
+      "bizarre-story": -2,
+      "comforting-cheer": 4,
+      "complain": 2,
+      "criticism": -4,
+      "cute-cheer": 4,
+      "dream": 4,
+      "food-story": 8,
+      "gossip": 2,
+      "happy-memory": 4,
+      "heroic-cheer": 4,
+      "heroic-tale": 4,
+      "horror-story": -10,
+      "interesting-story": 2,
+      "joyful-memory": 4,
+      "myth": 4,
+      "occult": -2,
+      "reality-check": -4,
+      "sad-memory": 4,
+      "self-indulgent": 4,
+      "unique-comment": 0
+    }
+  },
+  "alexa": {
+    "chats": [
+      "reality-check",
+      "happy-memory"
+    ],
+    "values": {
+      "advice": 4,
+      "belief": -2,
+      "bizarre-story": -1,
+      "comforting-cheer": 8,
+      "complain": -6,
+      "criticism": 1,
+      "cute-cheer": 3,
+      "dream": 4,
+      "food-story": 5,
+      "gossip": -6,
+      "happy-memory": -1,
+      "heroic-cheer": 7,
+      "heroic-tale": 5,
+      "horror-story": -1,
+      "interesting-story": 1,
+      "joyful-memory": 5,
+      "myth": 1,
+      "occult": -2,
+      "reality-check": 2,
+      "sad-memory": 6,
+      "self-indulgent": -5,
+      "unique-comment": 0
+    }
+  },
+  "angelica": {
+    "chats": [
+      "myth",
+      "comforting-cheer"
+    ],
+    "values": {
+      "advice": 3,
+      "belief": 3,
+      "bizarre-story": -3,
+      "comforting-cheer": 2,
+      "complain": 1,
+      "criticism": 1,
+      "cute-cheer": 3,
+      "dream": -1,
+      "food-story": 4,
+      "gossip": 2,
+      "happy-memory": 2,
+      "heroic-cheer": 4,
+      "heroic-tale": 1,
+      "horror-story": -1,
+      "interesting-story": 0,
+      "joyful-memory": 2,
+      "myth": 1,
+      "occult": -2,
+      "reality-check": 1,
+      "sad-memory": 2,
+      "self-indulgent": 1,
+      "unique-comment": 0
+    }
+  },
+  "aramintha": {
+    "chats": [
+      "food-story",
+      "complain"
+    ],
+    "values": {
+      "advice": 5,
+      "belief": 4,
+      "bizarre-story": 0,
+      "comforting-cheer": 6,
+      "complain": 2,
+      "criticism": 2,
+      "cute-cheer": 5,
+      "dream": 4,
+      "food-story": 4,
+      "gossip": 2,
+      "happy-memory": 3,
+      "heroic-cheer": 6,
+      "heroic-tale": 6,
+      "horror-story": 0,
+      "interesting-story": 5,
+      "joyful-memory": 5,
+      "myth": 1,
+      "occult": -1,
+      "reality-check": -2,
+      "sad-memory": -1,
+      "self-indulgent": 4,
+      "unique-comment": 1
+    }
+  },
+  "arbiter-vildred": {
+    "chats": [
+      "criticism",
+      "self-indulgent"
+    ],
+    "values": {
+      "advice": 1,
+      "belief": 5,
+      "bizarre-story": -2,
+      "comforting-cheer": -2,
+      "complain": -2,
+      "criticism": 6,
+      "cute-cheer": 3,
+      "dream": 0,
+      "food-story": 2,
+      "gossip": 1,
+      "happy-memory": 1,
+      "heroic-cheer": 5,
+      "heroic-tale": 1,
+      "horror-story": 2,
+      "interesting-story": 0,
+      "joyful-memory": 1,
+      "myth": 3,
+      "occult": 1,
+      "reality-check": 3,
+      "sad-memory": -1,
+      "self-indulgent": 1,
+      "unique-comment": 1
+    }
+  },
+  "armin": {
+    "chats": [
+      "heroic-tale",
+      "gossip"
+    ],
+    "values": {
+      "advice": 0,
+      "belief": 4,
+      "bizarre-story": 2,
+      "comforting-cheer": 1,
+      "complain": -2,
+      "criticism": 3,
+      "cute-cheer": 5,
+      "dream": 5,
+      "food-story": 3,
+      "gossip": 2,
+      "happy-memory": 3,
+      "heroic-cheer": 6,
+      "heroic-tale": 5,
+      "horror-story": 3,
+      "interesting-story": 3,
+      "joyful-memory": 4,
+      "myth": 5,
+      "occult": 3,
+      "reality-check": 0,
+      "sad-memory": -3,
+      "self-indulgent": 4,
+      "unique-comment": 1
+    }
+  },
+  "arowell": {
+    "chats": [
+      "sad-memory",
+      "dream"
+    ],
+    "values": {
+      "advice": 2,
+      "belief": 1,
+      "bizarre-story": -2,
+      "comforting-cheer": 0,
+      "complain": 2,
+      "criticism": 4,
+      "cute-cheer": 1,
+      "dream": 2,
+      "food-story": 1,
+      "gossip": -2,
+      "happy-memory": 2,
+      "heroic-cheer": 2,
+      "heroic-tale": 0,
+      "horror-story": 0,
+      "interesting-story": 2,
+      "joyful-memory": 4,
+      "myth": 0,
+      "occult": 0,
+      "reality-check": 4,
+      "sad-memory": 1,
+      "self-indulgent": 0,
+      "unique-comment": 3
+    }
+  },
+  "assassin-cartuja": {
+    "chats": [
+      "reality-check",
+      "food-story"
+    ],
+    "values": {
+      "advice": 5,
+      "belief": -1,
+      "bizarre-story": 0,
+      "comforting-cheer": 3,
+      "complain": 2,
+      "criticism": -5,
+      "cute-cheer": 6,
+      "dream": 5,
+      "food-story": 3,
+      "gossip": 2,
+      "happy-memory": 5,
+      "heroic-cheer": 5,
+      "heroic-tale": 0,
+      "horror-story": -1,
+      "interesting-story": 3,
+      "joyful-memory": 7,
+      "myth": 2,
+      "occult": 0,
+      "reality-check": -5,
+      "sad-memory": 6,
+      "self-indulgent": -1,
+      "unique-comment": 3
+    }
+  },
+  "assassin-cidd": {
+    "chats": [
+      "sad-memory",
+      "heroic-tale"
+    ],
+    "values": {
+      "advice": 0,
+      "belief": 0,
+      "bizarre-story": 0,
+      "comforting-cheer": 0,
+      "complain": 0,
+      "criticism": 0,
+      "cute-cheer": 1,
+      "dream": 0,
+      "food-story": 4,
+      "gossip": 0,
+      "happy-memory": 0,
+      "heroic-cheer": 0,
+      "heroic-tale": 1,
+      "horror-story": -2,
+      "interesting-story": 1,
+      "joyful-memory": 1,
+      "myth": 0,
+      "occult": -2,
+      "reality-check": 0,
+      "sad-memory": 0,
+      "self-indulgent": 0,
+      "unique-comment": 1
+    }
+  },
+  "assassin-coli": {
+    "chats": [
+      "reality-check",
+      "gossip"
+    ],
+    "values": {
+      "advice": 4,
+      "belief": 4,
+      "bizarre-story": 3,
+      "comforting-cheer": 1,
+      "complain": -3,
+      "criticism": 2,
+      "cute-cheer": 2,
+      "dream": 4,
+      "food-story": 1,
+      "gossip": -2,
+      "happy-memory": 1,
+      "heroic-cheer": 3,
+      "heroic-tale": 0,
+      "horror-story": 3,
+      "interesting-story": 1,
+      "joyful-memory": 3,
+      "myth": 0,
+      "occult": 1,
+      "reality-check": -1,
+      "sad-memory": -2,
+      "self-indulgent": -1,
+      "unique-comment": 3
+    }
+  },
+  "auxiliary-lots": {
+    "chats": [
+      "dream",
+      "complain"
+    ],
+    "values": {
+      "advice": 4,
+      "belief": 0,
+      "bizarre-story": -4,
+      "comforting-cheer": 5,
+      "complain": -1,
+      "criticism": -3,
+      "cute-cheer": 2,
+      "dream": 4,
+      "food-story": 3,
+      "gossip": -4,
+      "happy-memory": 5,
+      "heroic-cheer": 5,
+      "heroic-tale": 3,
+      "horror-story": 2,
+      "interesting-story": 2,
+      "joyful-memory": 6,
+      "myth": 3,
+      "occult": 0,
+      "reality-check": -1,
+      "sad-memory": 4,
+      "self-indulgent": -2,
+      "unique-comment": 2
+    }
+  },
+  "azalea": {
+    "chats": [
+      "heroic-tale",
+      "advice"
+    ],
+    "values": {
+      "advice": 0,
+      "belief": 2,
+      "bizarre-story": -2,
+      "comforting-cheer": 1,
+      "complain": -5,
+      "criticism": -2,
+      "cute-cheer": 3,
+      "dream": 5,
+      "food-story": 4,
+      "gossip": -2,
+      "happy-memory": 4,
+      "heroic-cheer": 6,
+      "heroic-tale": 5,
+      "horror-story": 2,
+      "interesting-story": 2,
+      "joyful-memory": 4,
+      "myth": 7,
+      "occult": 2,
+      "reality-check": -3,
+      "sad-memory": 2,
+      "self-indulgent": 1,
+      "unique-comment": 3
+    }
+  },
+  "baal-sezan": {
+    "chats": [
+      "joyful-memory",
+      "bizarre-story"
+    ],
+    "values": {
+      "advice": 5,
+      "belief": 0,
+      "bizarre-story": 4,
+      "comforting-cheer": 6,
+      "complain": -6,
+      "criticism": 2,
+      "cute-cheer": 1,
+      "dream": 3,
+      "food-story": -1,
+      "gossip": -6,
+      "happy-memory": 0,
+      "heroic-cheer": 2,
+      "heroic-tale": 0,
+      "horror-story": 5,
+      "interesting-story": 1,
+      "joyful-memory": 2,
+      "myth": -2,
+      "occult": 1,
+      "reality-check": 3,
+      "sad-memory": 7,
+      "self-indulgent": -1,
+      "unique-comment": 5
+    }
+  },
+  "basar": {
+    "chats": [
+      "heroic-tale",
+      "reality-check"
+    ],
+    "values": {
+      "advice": 4,
+      "belief": 3,
+      "bizarre-story": 0,
+      "comforting-cheer": 3,
+      "complain": 0,
+      "criticism": 3,
+      "cute-cheer": 4,
+      "dream": -1,
+      "food-story": 1,
+      "gossip": 3,
+      "happy-memory": 2,
+      "heroic-cheer": 5,
+      "heroic-tale": 2,
+      "horror-story": 5,
+      "interesting-story": 1,
+      "joyful-memory": 3,
+      "myth": 0,
+      "occult": 0,
+      "reality-check": 3,
+      "sad-memory": -2,
+      "self-indulgent": 1,
+      "unique-comment": 0
+    }
+  },
+  "bask": {
+    "chats": [
+      "belief",
+      "sad-memory"
+    ],
+    "values": {
+      "advice": 0,
+      "belief": 4,
+      "bizarre-story": -2,
+      "comforting-cheer": 6,
+      "complain": 0,
+      "criticism": 5,
+      "cute-cheer": 3,
+      "dream": 5,
+      "food-story": 3,
+      "gossip": -2,
+      "happy-memory": 3,
+      "heroic-cheer": 5,
+      "heroic-tale": 2,
+      "horror-story": 0,
+      "interesting-story": 2,
+      "joyful-memory": 4,
+      "myth": 4,
+      "occult": 2,
+      "reality-check": 2,
+      "sad-memory": 0,
+      "self-indulgent": 2,
+      "unique-comment": 1
+    }
+  },
+  "bellona": {
+    "chats": [
+      "happy-memory",
+      "interesting-story"
+    ],
+    "values": {
+      "advice": -1,
+      "belief": 2,
+      "bizarre-story": 2,
+      "comforting-cheer": -1,
+      "complain": -1,
+      "criticism": 4,
+      "cute-cheer": 4,
+      "dream": 7,
+      "food-story": 3,
+      "gossip": 1,
+      "happy-memory": 2,
+      "heroic-cheer": 4,
+      "heroic-tale": 2,
+      "horror-story": 1,
+      "interesting-story": 6,
+      "joyful-memory": 2,
+      "myth": 5,
+      "occult": 3,
+      "reality-check": -1,
+      "sad-memory": 0,
+      "self-indulgent": 3,
+      "unique-comment": 3
+    }
+  },
+  "blood-blade-karin": {
+    "chats": [
+      "self-indulgent",
+      "food-story"
+    ],
+    "values": {
+      "advice": 6,
+      "belief": 0,
+      "bizarre-story": 2,
+      "comforting-cheer": 6,
+      "complain": -7,
+      "criticism": 8,
+      "cute-cheer": 4,
+      "dream": 2,
+      "food-story": 0,
+      "gossip": -4,
+      "happy-memory": 0,
+      "heroic-cheer": -6,
+      "heroic-tale": 2,
+      "horror-story": 3,
+      "interesting-story": 0,
+      "joyful-memory": 0,
+      "myth": 2,
+      "occult": 6,
+      "reality-check": -1,
+      "sad-memory": 4,
+      "self-indulgent": -2,
+      "unique-comment": 5
+    }
+  },
+  "butcher-corps-inquisitor": {
+    "chats": [
+      "advice",
+      "reality-check"
+    ],
+    "values": {
+      "advice": 1,
+      "belief": 6,
+      "bizarre-story": 5,
+      "comforting-cheer": 1,
+      "complain": -7,
+      "criticism": 6,
+      "cute-cheer": 2,
+      "dream": 5,
+      "food-story": -1,
+      "gossip": -3,
+      "happy-memory": -1,
+      "heroic-cheer": 0,
+      "heroic-tale": -1,
+      "horror-story": 5,
+      "interesting-story": 2,
+      "joyful-memory": 1,
+      "myth": 1,
+      "occult": 5,
+      "reality-check": 2,
+      "sad-memory": 3,
+      "self-indulgent": 3,
+      "unique-comment": 6
+    }
+  },
+  "carmainerose": {
+    "chats": [
+      "dream",
+      "horror-story"
+    ],
+    "values": {
+      "advice": 3,
+      "belief": 0,
+      "bizarre-story": -3,
+      "comforting-cheer": 3,
+      "complain": 1,
+      "criticism": 8,
+      "cute-cheer": 5,
+      "dream": 0,
+      "food-story": 3,
+      "gossip": 2,
+      "happy-memory": 2,
+      "heroic-cheer": -3,
+      "heroic-tale": 5,
+      "horror-story": 1,
+      "interesting-story": -1,
+      "joyful-memory": 2,
+      "myth": 3,
+      "occult": 3,
+      "reality-check": -3,
+      "sad-memory": 0,
+      "self-indulgent": -5,
+      "unique-comment": 0
+    }
+  },
+  "carrot": {
+    "chats": [
+      "complain",
+      "advice"
+    ],
+    "values": {
+      "advice": 2,
+      "belief": 2,
+      "bizarre-story": -2,
+      "comforting-cheer": -2,
+      "complain": 0,
+      "criticism": 5,
+      "cute-cheer": 1,
+      "dream": -3,
+      "food-story": 0,
+      "gossip": 1,
+      "happy-memory": 0,
+      "heroic-cheer": 2,
+      "heroic-tale": 0,
+      "horror-story": 2,
+      "interesting-story": 0,
+      "joyful-memory": 1,
+      "myth": -1,
+      "occult": -1,
+      "reality-check": 5,
+      "sad-memory": 0,
+      "self-indulgent": -1,
+      "unique-comment": 3
+    }
+  },
+  "cartuja": {
+    "chats": [
+      "criticism",
+      "sad-memory"
+    ],
+    "values": {
+      "advice": 7,
+      "belief": -6,
+      "bizarre-story": -2,
+      "comforting-cheer": 6,
+      "complain": 0,
+      "criticism": -4,
+      "cute-cheer": 4,
+      "dream": 4,
+      "food-story": 2,
+      "gossip": -2,
+      "happy-memory": 5,
+      "heroic-cheer": 7,
+      "heroic-tale": 0,
+      "horror-story": -2,
+      "interesting-story": 1,
+      "joyful-memory": 5,
+      "myth": 2,
+      "occult": -3,
+      "reality-check": -2,
+      "sad-memory": 8,
+      "self-indulgent": -4,
+      "unique-comment": 0
+    }
+  },
+  "cecilia": {
+    "chats": [
+      "joyful-memory",
+      "advice"
+    ],
+    "values": {
+      "advice": 5,
+      "belief": -3,
+      "bizarre-story": -1,
+      "comforting-cheer": 3,
+      "complain": 1,
+      "criticism": -3,
+      "cute-cheer": 4,
+      "dream": 3,
+      "food-story": 4,
+      "gossip": 1,
+      "happy-memory": 3,
+      "heroic-cheer": 2,
+      "heroic-tale": -2,
+      "horror-story": -4,
+      "interesting-story": 2,
+      "joyful-memory": 4,
+      "myth": 1,
+      "occult": -1,
+      "reality-check": -3,
+      "sad-memory": 5,
+      "self-indulgent": -2,
+      "unique-comment": 1
+    }
+  },
+  "celeste": {
+    "chats": [
+      "food-story",
+      "comforting-cheer"
+    ],
+    "values": {
+      "advice": 2,
+      "belief": 1,
+      "bizarre-story": 0,
+      "comforting-cheer": 3,
+      "complain": -5,
+      "criticism": 4,
+      "cute-cheer": 2,
+      "dream": 3,
+      "food-story": 3,
+      "gossip": -3,
+      "happy-memory": -3,
+      "heroic-cheer": 2,
+      "heroic-tale": 2,
+      "horror-story": -1,
+      "interesting-story": 2,
+      "joyful-memory": 4,
+      "myth": 0,
+      "occult": 0,
+      "reality-check": 3,
+      "sad-memory": 3,
+      "self-indulgent": -3,
+      "unique-comment": 3
+    }
+  },
+  "celestial-mercedes": {
+    "chats": [
+      "belief",
+      "myth"
+    ],
+    "values": {
+      "advice": 3,
+      "belief": 2,
+      "bizarre-story": -2,
+      "comforting-cheer": 1,
+      "complain": 1,
+      "criticism": 5,
+      "cute-cheer": 2,
+      "dream": -3,
+      "food-story": 0,
+      "gossip": 3,
+      "happy-memory": 0,
+      "heroic-cheer": 3,
+      "heroic-tale": -1,
+      "horror-story": -3,
+      "interesting-story": 1,
+      "joyful-memory": 0,
+      "myth": 4,
+      "occult": 2,
+      "reality-check": 5,
+      "sad-memory": 0,
+      "self-indulgent": 4,
+      "unique-comment": -3
+    }
+  },
+  "challenger-dominiel": {
+    "chats": [
+      "heroic-tale",
+      "dream"
+    ],
+    "values": {
+      "advice": 0,
+      "belief": 4,
+      "bizarre-story": 2,
+      "comforting-cheer": 1,
+      "complain": -2,
+      "criticism": 3,
+      "cute-cheer": 5,
+      "dream": 5,
+      "food-story": 3,
+      "gossip": 2,
+      "happy-memory": 3,
+      "heroic-cheer": 6,
+      "heroic-tale": 5,
+      "horror-story": 3,
+      "interesting-story": 3,
+      "joyful-memory": 4,
+      "myth": 5,
+      "occult": 3,
+      "reality-check": 0,
+      "sad-memory": -3,
+      "self-indulgent": 4,
+      "unique-comment": 1
+    }
+  },
+  "charlotte": {
+    "chats": [
+      "heroic-cheer",
+      "advice"
+    ],
+    "values": {
+      "advice": 5,
+      "belief": -4,
+      "bizarre-story": -5,
+      "comforting-cheer": 6,
+      "complain": -5,
+      "criticism": 0,
+      "cute-cheer": 5,
+      "dream": 2,
+      "food-story": 5,
+      "gossip": -3,
+      "happy-memory": 5,
+      "heroic-cheer": 0,
+      "heroic-tale": 8,
+      "horror-story": 0,
+      "interesting-story": 0,
+      "joyful-memory": 3,
+      "myth": 8,
+      "occult": 3,
+      "reality-check": -6,
+      "sad-memory": 3,
+      "self-indulgent": -4,
+      "unique-comment": 2
+    }
+  },
+  "chloe": {
+    "chats": [
+      "dream",
+      "unique-comment"
+    ],
+    "values": {
+      "advice": 2,
+      "belief": 1,
+      "bizarre-story": -2,
+      "comforting-cheer": 4,
+      "complain": 2,
+      "criticism": -4,
+      "cute-cheer": 4,
+      "dream": 4,
+      "food-story": 8,
+      "gossip": 2,
+      "happy-memory": 4,
+      "heroic-cheer": 4,
+      "heroic-tale": 4,
+      "horror-story": -10,
+      "interesting-story": 2,
+      "joyful-memory": 4,
+      "myth": 4,
+      "occult": -2,
+      "reality-check": -4,
+      "sad-memory": 4,
+      "self-indulgent": 4,
+      "unique-comment": 0
+    }
+  },
+  "church-of-ilryos-axe": {
+    "chats": [
+      "reality-check",
+      "gossip"
+    ],
+    "values": {
+      "advice": 0,
+      "belief": 6,
+      "bizarre-story": 2,
+      "comforting-cheer": 1,
+      "complain": 0,
+      "criticism": 0,
+      "cute-cheer": 2,
+      "dream": 5,
+      "food-story": 3,
+      "gossip": -1,
+      "happy-memory": 3,
+      "heroic-cheer": 5,
+      "heroic-tale": 2,
+      "horror-story": 0,
+      "interesting-story": 1,
+      "joyful-memory": 3,
+      "myth": 7,
+      "occult": -1,
+      "reality-check": 0,
+      "sad-memory": 3,
+      "self-indulgent": 2,
+      "unique-comment": 3
+    }
+  },
+  "cidd": {
+    "chats": [
+      "complain",
+      "bizarre-story"
+    ],
+    "values": {
+      "advice": 0,
+      "belief": 6,
+      "bizarre-story": 0,
+      "comforting-cheer": 0,
+      "complain": -3,
+      "criticism": 3,
+      "cute-cheer": 4,
+      "dream": 4,
+      "food-story": 1,
+      "gossip": -1,
+      "happy-memory": 2,
+      "heroic-cheer": 3,
+      "heroic-tale": 4,
+      "horror-story": 3,
+      "interesting-story": 3,
+      "joyful-memory": 6,
+      "myth": 1,
+      "occult": 4,
+      "reality-check": -3,
+      "sad-memory": 1,
+      "self-indulgent": 3,
+      "unique-comment": 3
+    }
+  },
+  "clarissa": {
+    "chats": [
+      "heroic-tale",
+      "cute-cheer"
+    ],
+    "values": {
+      "advice": 4,
+      "belief": 6,
+      "bizarre-story": 3,
+      "comforting-cheer": 2,
+      "complain": -3,
+      "criticism": -3,
+      "cute-cheer": 1,
+      "dream": 4,
+      "food-story": 1,
+      "gossip": -1,
+      "happy-memory": 1,
+      "heroic-cheer": 3,
+      "heroic-tale": 0,
+      "horror-story": 3,
+      "interesting-story": 0,
+      "joyful-memory": 2,
+      "myth": 3,
+      "occult": -2,
+      "reality-check": -3,
+      "sad-memory": 1,
+      "self-indulgent": -1,
+      "unique-comment": 5
+    }
+  },
+  "coli": {
+    "chats": [
+      "heroic-tale",
+      "gossip"
+    ],
+    "values": {
+      "advice": 0,
+      "belief": 0,
+      "bizarre-story": -1,
+      "comforting-cheer": 1,
+      "complain": -3,
+      "criticism": 2,
+      "cute-cheer": 3,
+      "dream": 4,
+      "food-story": 4,
+      "gossip": -3,
+      "happy-memory": 3,
+      "heroic-cheer": 8,
+      "heroic-tale": 5,
+      "horror-story": 0,
+      "interesting-story": 1,
+      "joyful-memory": 3,
+      "myth": 5,
+      "occult": 0,
+      "reality-check": 1,
+      "sad-memory": 2,
+      "self-indulgent": 0,
+      "unique-comment": 1
+    }
+  },
+  "corvus": {
+    "chats": [
+      "heroic-tale",
+      "criticism"
+    ],
+    "values": {
+      "advice": 4,
+      "belief": 4,
+      "bizarre-story": 0,
+      "comforting-cheer": 6,
+      "complain": 2,
+      "criticism": -3,
+      "cute-cheer": 3,
+      "dream": 4,
+      "food-story": 2,
+      "gossip": 1,
+      "happy-memory": 4,
+      "heroic-cheer": 5,
+      "heroic-tale": 3,
+      "horror-story": 3,
+      "interesting-story": 2,
+      "joyful-memory": 5,
+      "myth": 4,
+      "occult": -2,
+      "reality-check": 0,
+      "sad-memory": 2,
+      "self-indulgent": 2,
+      "unique-comment": 2
+    }
+  },
+  "crimson-armin": {
+    "chats": [
+      "cute-cheer",
+      "happy-memory"
+    ],
+    "values": {
+      "advice": -1,
+      "belief": 3,
+      "bizarre-story": -1,
+      "comforting-cheer": 0,
+      "complain": -1,
+      "criticism": 1,
+      "cute-cheer": 4,
+      "dream": 5,
+      "food-story": 6,
+      "gossip": 1,
+      "happy-memory": 3,
+      "heroic-cheer": 5,
+      "heroic-tale": 4,
+      "horror-story": -5,
+      "interesting-story": 2,
+      "joyful-memory": 3,
+      "myth": 6,
+      "occult": 1,
+      "reality-check": -2,
+      "sad-memory": 1,
+      "self-indulgent": 4,
+      "unique-comment": 1
+    }
+  },
+  "crozet": {
+    "chats": [
+      "reality-check",
+      "dream"
+    ],
+    "values": {
+      "advice": 4,
+      "belief": 0,
+      "bizarre-story": -3,
+      "comforting-cheer": 6,
+      "complain": 0,
+      "criticism": -4,
+      "cute-cheer": 1,
+      "dream": 3,
+      "food-story": 3,
+      "gossip": -4,
+      "happy-memory": 4,
+      "heroic-cheer": 7,
+      "heroic-tale": 3,
+      "horror-story": 0,
+      "interesting-story": 0,
+      "joyful-memory": 4,
+      "myth": 4,
+      "occult": -5,
+      "reality-check": 1,
+      "sad-memory": 7,
+      "self-indulgent": -2,
+      "unique-comment": 2
+    }
+  },
+  "dark-corvus": {
+    "chats": [
+      "criticism",
+      "belief"
+    ],
+    "values": {
+      "advice": -2,
+      "belief": 2,
+      "bizarre-story": 1,
+      "comforting-cheer": 2,
+      "complain": -5,
+      "criticism": 6,
+      "cute-cheer": -2,
+      "dream": 2,
+      "food-story": -2,
+      "gossip": -6,
+      "happy-memory": 3,
+      "heroic-cheer": -1,
+      "heroic-tale": -1,
+      "horror-story": -2,
+      "interesting-story": 2,
+      "joyful-memory": 4,
+      "myth": -3,
+      "occult": 7,
+      "reality-check": 0,
+      "sad-memory": 1,
+      "self-indulgent": -1,
+      "unique-comment": 2
+    }
+  },
+  "destina": {
+    "chats": [
+      "sad-memory",
+      "heroic-cheer"
+    ],
+    "values": {
+      "advice": 0,
+      "belief": 2,
+      "bizarre-story": 1,
+      "comforting-cheer": -2,
+      "complain": 1,
+      "criticism": 0,
+      "cute-cheer": 3,
+      "dream": 2,
+      "food-story": 3,
+      "gossip": 1,
+      "happy-memory": 2,
+      "heroic-cheer": 3,
+      "heroic-tale": 3,
+      "horror-story": 1,
+      "interesting-story": 3,
+      "joyful-memory": 5,
+      "myth": 1,
+      "occult": 1,
+      "reality-check": 0,
+      "sad-memory": 1,
+      "self-indulgent": 1,
+      "unique-comment": 6
+    }
+  },
+  "diene": {
+    "chats": [
+      "reality-check",
+      "happy-memory"
+    ],
+    "values": {
+      "advice": 7,
+      "belief": 0,
+      "bizarre-story": -3,
+      "comforting-cheer": 6,
+      "complain": 3,
+      "criticism": -6,
+      "cute-cheer": 3,
+      "dream": 5,
+      "food-story": 1,
+      "gossip": 0,
+      "happy-memory": 5,
+      "heroic-cheer": 4,
+      "heroic-tale": -3,
+      "horror-story": -2,
+      "interesting-story": 1,
+      "joyful-memory": 5,
+      "myth": 4,
+      "occult": -4,
+      "reality-check": -3,
+      "sad-memory": 9,
+      "self-indulgent": -2,
+      "unique-comment": 2
+    }
+  },
+  "dingo": {
+    "chats": [
+      "bizarre-story",
+      "food-story"
+    ],
+    "values": {
+      "advice": 2,
+      "belief": 1,
+      "bizarre-story": -2,
+      "comforting-cheer": 2,
+      "complain": 2,
+      "criticism": 2,
+      "cute-cheer": 2,
+      "dream": 2,
+      "food-story": 5,
+      "gossip": -2,
+      "happy-memory": 2,
+      "heroic-cheer": 2,
+      "heroic-tale": 1,
+      "horror-story": -2,
+      "interesting-story": 2,
+      "joyful-memory": 4,
+      "myth": 0,
+      "occult": 0,
+      "reality-check": 2,
+      "sad-memory": 1,
+      "self-indulgent": 0,
+      "unique-comment": 1
+    }
+  },
+  "dominiel": {
+    "chats": [
+      "reality-check",
+      "dream"
+    ],
+    "values": {
+      "advice": 5,
+      "belief": 4,
+      "bizarre-story": 0,
+      "comforting-cheer": 5,
+      "complain": -1,
+      "criticism": 1,
+      "cute-cheer": 4,
+      "dream": 3,
+      "food-story": 1,
+      "gossip": 1,
+      "happy-memory": 4,
+      "heroic-cheer": 5,
+      "heroic-tale": 1,
+      "horror-story": -1,
+      "interesting-story": 3,
+      "joyful-memory": 5,
+      "myth": 5,
+      "occult": 0,
+      "reality-check": -1,
+      "sad-memory": 1,
+      "self-indulgent": -3,
+      "unique-comment": 0
+    }
+  },
+  "doris": {
+    "chats": [
+      "reality-check",
+      "happy-memory"
+    ],
+    "values": {
+      "advice": 3,
+      "belief": 3,
+      "bizarre-story": 2,
+      "comforting-cheer": 1,
+      "complain": -3,
+      "criticism": 1,
+      "cute-cheer": 3,
+      "dream": 1,
+      "food-story": 0,
+      "gossip": 3,
+      "happy-memory": 2,
+      "heroic-cheer": 3,
+      "heroic-tale": 1,
+      "horror-story": -1,
+      "interesting-story": 3,
+      "joyful-memory": 3,
+      "myth": 1,
+      "occult": 0,
+      "reality-check": -1,
+      "sad-memory": 0,
+      "self-indulgent": -3,
+      "unique-comment": 3
+    }
+  },
+  "elson": {
+    "chats": [
+      "reality-check",
+      "comforting-cheer"
+    ],
+    "values": {
+      "advice": 8,
+      "belief": 0,
+      "bizarre-story": 1,
+      "comforting-cheer": 6,
+      "complain": -2,
+      "criticism": -4,
+      "cute-cheer": 6,
+      "dream": 4,
+      "food-story": 0,
+      "gossip": 4,
+      "happy-memory": 5,
+      "heroic-cheer": 5,
+      "heroic-tale": -2,
+      "horror-story": -3,
+      "interesting-story": 3,
+      "joyful-memory": 5,
+      "myth": 2,
+      "occult": -1,
+      "reality-check": -6,
+      "sad-memory": 5,
+      "self-indulgent": -5,
+      "unique-comment": 0
+    }
+  },
+  "enott": {
+    "chats": [
+      "self-indulgent",
+      "heroic-tale"
+    ],
+    "values": {
+      "advice": 3,
+      "belief": 0,
+      "bizarre-story": -3,
+      "comforting-cheer": 3,
+      "complain": 1,
+      "criticism": 8,
+      "cute-cheer": 5,
+      "dream": 0,
+      "food-story": 3,
+      "gossip": 2,
+      "happy-memory": 2,
+      "heroic-cheer": -3,
+      "heroic-tale": -1,
+      "horror-story": 1,
+      "interesting-story": -1,
+      "joyful-memory": 2,
+      "myth": 5,
+      "occult": 3,
+      "reality-check": -3,
+      "sad-memory": 0,
+      "self-indulgent": -5,
+      "unique-comment": 0
+    }
+  },
+  "fighter-maya": {
+    "chats": [
+      "joyful-memory",
+      "advice"
+    ],
+    "values": {
+      "advice": 4,
+      "belief": 4,
+      "bizarre-story": 7,
+      "comforting-cheer": 2,
+      "complain": -5,
+      "criticism": 0,
+      "cute-cheer": 4,
+      "dream": 4,
+      "food-story": 1,
+      "gossip": 2,
+      "happy-memory": 1,
+      "heroic-cheer": 4,
+      "heroic-tale": 3,
+      "horror-story": 6,
+      "interesting-story": 2,
+      "joyful-memory": 3,
+      "myth": 1,
+      "occult": 2,
+      "reality-check": -3,
+      "sad-memory": -5,
+      "self-indulgent": 1,
+      "unique-comment": 3
+    }
+  },
+  "general-purrgis": {
+    "chats": [
+      "heroic-tale",
+      "horror-story"
+    ],
+    "values": {
+      "advice": 7,
+      "belief": -6,
+      "bizarre-story": -2,
+      "comforting-cheer": 6,
+      "complain": 0,
+      "criticism": -4,
+      "cute-cheer": 4,
+      "dream": 4,
+      "food-story": 2,
+      "gossip": -2,
+      "happy-memory": 5,
+      "heroic-cheer": 7,
+      "heroic-tale": 0,
+      "horror-story": -2,
+      "interesting-story": 1,
+      "joyful-memory": 5,
+      "myth": 2,
+      "occult": 3,
+      "reality-check": -2,
+      "sad-memory": 8,
+      "self-indulgent": -4,
+      "unique-comment": 0
+    }
+  },
+  "gloomyrain": {
+    "chats": [
+      "bizarre-story",
+      "dream"
+    ],
+    "values": {
+      "advice": 5,
+      "belief": 4,
+      "bizarre-story": 3,
+      "comforting-cheer": 5,
+      "complain": -3,
+      "criticism": 5,
+      "cute-cheer": 1,
+      "dream": 4,
+      "food-story": -2,
+      "gossip": -5,
+      "happy-memory": 0,
+      "heroic-cheer": -1,
+      "heroic-tale": -3,
+      "horror-story": 5,
+      "interesting-story": 2,
+      "joyful-memory": 2,
+      "myth": -3,
+      "occult": 3,
+      "reality-check": 4,
+      "sad-memory": 5,
+      "self-indulgent": 1,
+      "unique-comment": 5
+    }
+  },
+  "guider-aither": {
+    "chats": [
+      "gossip",
+      "bizarre-story"
+    ],
+    "values": {
+      "advice": 3,
+      "belief": 0,
+      "bizarre-story": 4,
+      "comforting-cheer": 4,
+      "complain": 1,
+      "criticism": 1,
+      "cute-cheer": 5,
+      "dream": 6,
+      "food-story": 2,
+      "gossip": 3,
+      "happy-memory": 3,
+      "heroic-cheer": 4,
+      "heroic-tale": 3,
+      "horror-story": 4,
+      "interesting-story": 7,
+      "joyful-memory": 4,
+      "myth": 4,
+      "occult": 2,
+      "reality-check": -1,
+      "sad-memory": -1,
+      "self-indulgent": 3,
+      "unique-comment": 2
+    }
+  },
+  "gunther": {
+    "chats": [
+      "heroic-tale",
+      "interesting-story"
+    ],
+    "values": {
+      "advice": 5,
+      "belief": 0,
+      "bizarre-story": -3,
+      "comforting-cheer": 6,
+      "complain": 1,
+      "criticism": 1,
+      "cute-cheer": 3,
+      "dream": 3,
+      "food-story": 5,
+      "gossip": -3,
+      "happy-memory": 3,
+      "heroic-cheer": 8,
+      "heroic-tale": 6,
+      "horror-story": -3,
+      "interesting-story": 3,
+      "joyful-memory": 4,
+      "myth": 1,
+      "occult": -4,
+      "reality-check": -1,
+      "sad-memory": 4,
+      "self-indulgent": 1,
+      "unique-comment": 1
+    }
+  },
+  "haste": {
+    "chats": [
+      "reality-check",
+      "complain"
+    ],
+    "values": {
+      "advice": 2,
+      "belief": -2,
+      "bizarre-story": 1,
+      "comforting-cheer": 7,
+      "complain": 0,
+      "criticism": 5,
+      "cute-cheer": -2,
+      "dream": 2,
+      "food-story": -1,
+      "gossip": -5,
+      "happy-memory": 3,
+      "heroic-cheer": 1,
+      "heroic-tale": -2,
+      "horror-story": -2,
+      "interesting-story": 2,
+      "joyful-memory": 4,
+      "myth": -3,
+      "occult": 4,
+      "reality-check": 5,
+      "sad-memory": -1,
+      "self-indulgent": -2,
+      "unique-comment": -1
+    }
+  },
+  "hazel": {
+    "chats": [
+      "heroic-tale",
+      "happy-memory"
+    ],
+    "values": {
+      "advice": 3,
+      "belief": -3,
+      "bizarre-story": -1,
+      "comforting-cheer": 4,
+      "complain": 0,
+      "criticism": 1,
+      "cute-cheer": 2,
+      "dream": 1,
+      "food-story": 2,
+      "gossip": -1,
+      "happy-memory": 2,
+      "heroic-cheer": 6,
+      "heroic-tale": 3,
+      "horror-story": -5,
+      "interesting-story": 2,
+      "joyful-memory": 2,
+      "myth": 6,
+      "occult": 1,
+      "reality-check": 3,
+      "sad-memory": 3,
+      "self-indulgent": 3,
+      "unique-comment": -3
+    }
+  },
+  "helga": {
+    "chats": [
+      "belief",
+      "advice"
+    ],
+    "values": {
+      "advice": 5,
+      "belief": 0,
+      "bizarre-story": -3,
+      "comforting-cheer": 8,
+      "complain": -7,
+      "criticism": 7,
+      "cute-cheer": 6,
+      "dream": 3,
+      "food-story": 6,
+      "gossip": -4,
+      "happy-memory": -1,
+      "heroic-cheer": -1,
+      "heroic-tale": 7,
+      "horror-story": -3,
+      "interesting-story": 0,
+      "joyful-memory": 3,
+      "myth": 5,
+      "occult": 3,
+      "reality-check": -2,
+      "sad-memory": 3,
+      "self-indulgent": -6,
+      "unique-comment": 0
+    }
+  },
+  "hurado": {
+    "chats": [
+      "advice",
+      "gossip"
+    ],
+    "values": {
+      "advice": 5,
+      "belief": -1,
+      "bizarre-story": 0,
+      "comforting-cheer": 3,
+      "complain": 2,
+      "criticism": -5,
+      "cute-cheer": 6,
+      "dream": 5,
+      "food-story": 3,
+      "gossip": 2,
+      "happy-memory": 5,
+      "heroic-cheer": 5,
+      "heroic-tale": 0,
+      "horror-story": -1,
+      "interesting-story": 3,
+      "joyful-memory": 7,
+      "myth": 2,
+      "occult": 0,
+      "reality-check": 5,
+      "sad-memory": 6,
+      "self-indulgent": -1,
+      "unique-comment": 3
+    }
+  },
+  "iseria": {
+    "chats": [
+      "sad-memory",
+      "advice"
+    ],
+    "values": {
+      "advice": 3,
+      "belief": -3,
+      "bizarre-story": -1,
+      "comforting-cheer": 6,
+      "complain": -2,
+      "criticism": -3,
+      "cute-cheer": 4,
+      "dream": 3,
+      "food-story": 2,
+      "gossip": -2,
+      "happy-memory": 4,
+      "heroic-cheer": 5,
+      "heroic-tale": 3,
+      "horror-story": -2,
+      "interesting-story": 1,
+      "joyful-memory": 4,
+      "myth": 1,
+      "occult": -2,
+      "reality-check": 1,
+      "sad-memory": 6,
+      "self-indulgent": -5,
+      "unique-comment": 1
+    }
+  },
+  "jecht": {
+    "chats": [
+      "criticism",
+      "happy-memory"
+    ],
+    "values": {
+      "advice": 4,
+      "belief": 0,
+      "bizarre-story": -2,
+      "comforting-cheer": 8,
+      "complain": -8,
+      "criticism": -3,
+      "cute-cheer": 3,
+      "dream": 5,
+      "food-story": 5,
+      "gossip": -5,
+      "happy-memory": 0,
+      "heroic-cheer": 5,
+      "heroic-tale": 5,
+      "horror-story": 1,
+      "interesting-story": 2,
+      "joyful-memory": 6,
+      "myth": 3,
+      "occult": 0,
+      "reality-check": -2,
+      "sad-memory": 6,
+      "self-indulgent": -4,
+      "unique-comment": 2
+    }
+  },
+  "jena": {
+    "chats": [
+      "myth",
+      "advice"
+    ],
+    "values": {
+      "advice": 2,
+      "belief": 3,
+      "bizarre-story": -2,
+      "comforting-cheer": 1,
+      "complain": 2,
+      "criticism": -1,
+      "cute-cheer": 0,
+      "dream": 2,
+      "food-story": 1,
+      "gossip": 1,
+      "happy-memory": 2,
+      "heroic-cheer": 2,
+      "heroic-tale": 0,
+      "horror-story": 0,
+      "interesting-story": 1,
+      "joyful-memory": 3,
+      "myth": 3,
+      "occult": -3,
+      "reality-check": 2,
+      "sad-memory": 4,
+      "self-indulgent": 0,
+      "unique-comment": 5
+    }
+  },
+  "judge-kise": {
+    "chats": [
+      "sad-memory",
+      "comforting-cheer"
+    ],
+    "values": {
+      "advice": 2,
+      "belief": 2,
+      "bizarre-story": -2,
+      "comforting-cheer": -2,
+      "complain": 0,
+      "criticism": 5,
+      "cute-cheer": 1,
+      "dream": -3,
+      "food-story": 0,
+      "gossip": 1,
+      "happy-memory": 0,
+      "heroic-cheer": 2,
+      "heroic-tale": -1,
+      "horror-story": 2,
+      "interesting-story": 0,
+      "joyful-memory": 1,
+      "myth": -1,
+      "occult": -1,
+      "reality-check": 5,
+      "sad-memory": 0,
+      "self-indulgent": -1,
+      "unique-comment": 3
+    }
+  },
+  "judith": {
+    "chats": [
+      "advice",
+      "joyful-memory"
+    ],
+    "values": {
+      "advice": 4,
+      "belief": 2,
+      "bizarre-story": 0,
+      "comforting-cheer": 5,
+      "complain": 2,
+      "criticism": 2,
+      "cute-cheer": 4,
+      "dream": 4,
+      "food-story": 2,
+      "gossip": 0,
+      "happy-memory": 4,
+      "heroic-cheer": 5,
+      "heroic-tale": 3,
+      "horror-story": 3,
+      "interesting-story": 3,
+      "joyful-memory": 6,
+      "myth": 1,
+      "occult": 1,
+      "reality-check": 2,
+      "sad-memory": -1,
+      "self-indulgent": 2,
+      "unique-comment": 0
+    }
+  },
+  "karin": {
+    "chats": [
+      "cute-cheer",
+      "food-story"
+    ],
+    "values": {
+      "advice": 1,
+      "belief": 3,
+      "bizarre-story": 0,
+      "comforting-cheer": 2,
+      "complain": 2,
+      "criticism": -4,
+      "cute-cheer": 5,
+      "dream": 4,
+      "food-story": 7,
+      "gossip": 2,
+      "happy-memory": 4,
+      "heroic-cheer": 5,
+      "heroic-tale": 5,
+      "horror-story": -4,
+      "interesting-story": 3,
+      "joyful-memory": 6,
+      "myth": 3,
+      "occult": 0,
+      "reality-check": -4,
+      "sad-memory": 3,
+      "self-indulgent": 3,
+      "unique-comment": 3
+    }
+  },
+  "kayron": {
+    "chats": [
+      "criticism",
+      "myth"
+    ],
+    "values": {
+      "advice": 3,
+      "belief": 0,
+      "bizarre-story": -3,
+      "comforting-cheer": 3,
+      "complain": 1,
+      "criticism": 8,
+      "cute-cheer": 5,
+      "dream": 0,
+      "food-story": 3,
+      "gossip": 2,
+      "happy-memory": 2,
+      "heroic-cheer": -3,
+      "heroic-tale": 5,
+      "horror-story": 1,
+      "interesting-story": -1,
+      "joyful-memory": 2,
+      "myth": 5,
+      "occult": 3,
+      "reality-check": -3,
+      "sad-memory": 0,
+      "self-indulgent": -5,
+      "unique-comment": 0
+    }
+  },
+  "ken": {
+    "chats": [
+      "dream",
+      "food-story"
+    ],
+    "values": {
+      "advice": 4,
+      "belief": 0,
+      "bizarre-story": 0,
+      "comforting-cheer": 6,
+      "complain": -3,
+      "criticism": -5,
+      "cute-cheer": 4,
+      "dream": 4,
+      "food-story": 3,
+      "gossip": 0,
+      "happy-memory": 5,
+      "heroic-cheer": 6,
+      "heroic-tale": 6,
+      "horror-story": 5,
+      "interesting-story": 3,
+      "joyful-memory": 6,
+      "myth": 4,
+      "occult": 1,
+      "reality-check": -3,
+      "sad-memory": 1,
+      "self-indulgent": 1,
+      "unique-comment": 2
+    }
+  },
+  "kiris": {
+    "chats": [
+      "advice",
+      "reality-check"
+    ],
+    "values": {
+      "advice": -2,
+      "belief": 5,
+      "bizarre-story": -2,
+      "comforting-cheer": -3,
+      "complain": -3,
+      "criticism": 3,
+      "cute-cheer": 2,
+      "dream": 2,
+      "food-story": 4,
+      "gossip": -3,
+      "happy-memory": 0,
+      "heroic-cheer": 0,
+      "heroic-tale": 2,
+      "horror-story": -2,
+      "interesting-story": 2,
+      "joyful-memory": 4,
+      "myth": 0,
+      "occult": 3,
+      "reality-check": -3,
+      "sad-memory": 3,
+      "self-indulgent": 1,
+      "unique-comment": 4
+    }
+  },
+  "kise": {
+    "chats": [
+      "sad-memory",
+      "reality-check"
+    ],
+    "values": {
+      "advice": 1,
+      "belief": 1,
+      "bizarre-story": -1,
+      "comforting-cheer": 0,
+      "complain": 1,
+      "criticism": 0,
+      "cute-cheer": 2,
+      "dream": 2,
+      "food-story": 4,
+      "gossip": 1,
+      "happy-memory": 2,
+      "heroic-cheer": 2,
+      "heroic-tale": 2,
+      "horror-story": -5,
+      "interesting-story": 2,
+      "joyful-memory": 3,
+      "myth": 2,
+      "occult": -1,
+      "reality-check": 0,
+      "sad-memory": 2,
+      "self-indulgent": 2,
+      "unique-comment": 3
+    }
+  },
+  "kitty-clarissa": {
+    "chats": [
+      "cute-cheer",
+      "happy-memory"
+    ],
+    "values": {
+      "advice": 2,
+      "belief": -1,
+      "bizarre-story": 1,
+      "comforting-cheer": 3,
+      "complain": 2,
+      "criticism": -1,
+      "cute-cheer": 4,
+      "dream": 6,
+      "food-story": 5,
+      "gossip": 2,
+      "happy-memory": 3,
+      "heroic-cheer": 3,
+      "heroic-tale": 2,
+      "horror-story": -4,
+      "interesting-story": 6,
+      "joyful-memory": 3,
+      "myth": 3,
+      "occult": 0,
+      "reality-check": -3,
+      "sad-memory": 3,
+      "self-indulgent": 3,
+      "unique-comment": 2
+    }
+  },
+  "kluri": {
+    "chats": [
+      "unique-comment",
+      "belief"
+    ],
+    "values": {
+      "advice": 2,
+      "belief": -3,
+      "bizarre-story": -2,
+      "comforting-cheer": 3,
+      "complain": 2,
+      "criticism": 2,
+      "cute-cheer": 3,
+      "dream": 0,
+      "food-story": 6,
+      "gossip": 1,
+      "happy-memory": 2,
+      "heroic-cheer": -3,
+      "heroic-tale": 0,
+      "horror-story": -4,
+      "interesting-story": 4,
+      "joyful-memory": 4,
+      "myth": -3,
+      "occult": 2,
+      "reality-check": -3,
+      "sad-memory": 3,
+      "self-indulgent": -2,
+      "unique-comment": 2
+    }
+  },
+  "krau": {
+    "chats": [
+      "criticism",
+      "food-story"
+    ],
+    "values": {
+      "advice": 5,
+      "belief": 4,
+      "bizarre-story": 0,
+      "comforting-cheer": 6,
+      "complain": 2,
+      "criticism": 2,
+      "cute-cheer": 5,
+      "dream": 4,
+      "food-story": 4,
+      "gossip": 2,
+      "happy-memory": 3,
+      "heroic-cheer": 6,
+      "heroic-tale": 6,
+      "horror-story": 0,
+      "interesting-story": 5,
+      "joyful-memory": 5,
+      "myth": 1,
+      "occult": -1,
+      "reality-check": -2,
+      "sad-memory": -1,
+      "self-indulgent": 4,
+      "unique-comment": 1
+    }
+  },
+  "leo": {
+    "chats": [
+      "dream",
+      "gossip"
+    ],
+    "values": {
+      "advice": 4,
+      "belief": 0,
+      "bizarre-story": 0,
+      "comforting-cheer": 6,
+      "complain": -3,
+      "criticism": -5,
+      "cute-cheer": 0,
+      "dream": 4,
+      "food-story": 3,
+      "gossip": 0,
+      "happy-memory": 5,
+      "heroic-cheer": 6,
+      "heroic-tale": 6,
+      "horror-story": 5,
+      "interesting-story": 3,
+      "joyful-memory": 6,
+      "myth": 4,
+      "occult": 1,
+      "reality-check": -3,
+      "sad-memory": 1,
+      "self-indulgent": 1,
+      "unique-comment": 2
+    }
+  },
+  "lorina": {
+    "chats": [
+      "dream",
+      "heroic-cheer"
+    ],
+    "values": {
+      "advice": 7,
+      "belief": -2,
+      "bizarre-story": -1,
+      "comforting-cheer": 8,
+      "complain": -4,
+      "criticism": -1,
+      "cute-cheer": 5,
+      "dream": 6,
+      "food-story": 3,
+      "gossip": -2,
+      "happy-memory": 0,
+      "heroic-cheer": 4,
+      "heroic-tale": -1,
+      "horror-story": -3,
+      "interesting-story": 2,
+      "joyful-memory": 6,
+      "myth": 1,
+      "occult": -1,
+      "reality-check": -2,
+      "sad-memory": 8,
+      "self-indulgent": -5,
+      "unique-comment": 0
+    }
+  },
+  "lots": {
+    "chats": [
+      "comforting-cheer",
+      "advice"
+    ],
+    "values": {
+      "advice": 3,
+      "belief": 2,
+      "bizarre-story": -3,
+      "comforting-cheer": 0,
+      "complain": -2,
+      "criticism": 0,
+      "cute-cheer": 4,
+      "dream": 5,
+      "food-story": 0,
+      "gossip": -2,
+      "happy-memory": 3,
+      "heroic-cheer": 2,
+      "heroic-tale": -2,
+      "horror-story": -2,
+      "interesting-story": 2,
+      "joyful-memory": 6,
+      "myth": 1,
+      "occult": 2,
+      "reality-check": -6,
+      "sad-memory": 8,
+      "self-indulgent": -1,
+      "unique-comment": 3
+    }
+  },
+  "ludwig": {
+    "chats": [
+      "food-story",
+      "complain"
+    ],
+    "values": {
+      "advice": 4,
+      "belief": 3,
+      "bizarre-story": 2,
+      "comforting-cheer": 6,
+      "complain": -4,
+      "criticism": -3,
+      "cute-cheer": 6,
+      "dream": 3,
+      "food-story": 0,
+      "gossip": 4,
+      "happy-memory": 4,
+      "heroic-cheer": 3,
+      "heroic-tale": 1,
+      "horror-story": -3,
+      "interesting-story": 3,
+      "joyful-memory": 4,
+      "myth": 1,
+      "occult": 0,
+      "reality-check": -3,
+      "sad-memory": 3,
+      "self-indulgent": -6,
+      "unique-comment": 1
+    }
+  },
+  "luna": {
+    "chats": [
+      "criticism",
+      "sad-memory"
+    ],
+    "values": {
+      "advice": 2,
+      "belief": 2,
+      "bizarre-story": -2,
+      "comforting-cheer": -2,
+      "complain": 0,
+      "criticism": 0,
+      "cute-cheer": 1,
+      "dream": -3,
+      "food-story": 0,
+      "gossip": 1,
+      "happy-memory": 0,
+      "heroic-cheer": 2,
+      "heroic-tale": -1,
+      "horror-story": 2,
+      "interesting-story": 0,
+      "joyful-memory": 1,
+      "myth": -1,
+      "occult": -1,
+      "reality-check": 5,
+      "sad-memory": 0,
+      "self-indulgent": 0,
+      "unique-comment": 3
+    }
+  },
+  "maid-chloe": {
+    "chats": [
+      "comforting-cheer",
+      "food-story"
+    ],
+    "values": {
+      "advice": 2,
+      "belief": 3,
+      "bizarre-story": 0,
+      "comforting-cheer": 2,
+      "complain": 2,
+      "criticism": -4,
+      "cute-cheer": 5,
+      "dream": 4,
+      "food-story": 7,
+      "gossip": 2,
+      "happy-memory": 4,
+      "heroic-cheer": 5,
+      "heroic-tale": 5,
+      "horror-story": -4,
+      "interesting-story": 3,
+      "joyful-memory": 6,
+      "myth": 3,
+      "occult": -2,
+      "reality-check": -4,
+      "sad-memory": 3,
+      "self-indulgent": 3,
+      "unique-comment": 3
+    }
+  },
+  "martial-artist-ken": {
+    "chats": [
+      "heroic-tale",
+      "heroic-cheer"
+    ],
+    "values": {
+      "advice": -2,
+      "belief": 6,
+      "bizarre-story": 0,
+      "comforting-cheer": -2,
+      "complain": 1,
+      "criticism": 6,
+      "cute-cheer": 3,
+      "dream": 3,
+      "food-story": 2,
+      "gossip": 3,
+      "happy-memory": 1,
+      "heroic-cheer": 3,
+      "heroic-tale": 2,
+      "horror-story": 3,
+      "interesting-story": 1,
+      "joyful-memory": 3,
+      "myth": 4,
+      "occult": 2,
+      "reality-check": 0,
+      "sad-memory": -1,
+      "self-indulgent": 0,
+      "unique-comment": 1
+    }
+  },
+  "mascot-hazel": {
+    "chats": [
+      "reality-check",
+      "complain"
+    ],
+    "values": {
+      "advice": 3,
+      "belief": 0,
+      "bizarre-story": -3,
+      "comforting-cheer": 3,
+      "complain": 1,
+      "criticism": 8,
+      "cute-cheer": 5,
+      "dream": 0,
+      "food-story": 3,
+      "gossip": 2,
+      "happy-memory": 2,
+      "heroic-cheer": -3,
+      "heroic-tale": 5,
+      "horror-story": 1,
+      "interesting-story": -1,
+      "joyful-memory": 2,
+      "myth": 5,
+      "occult": 3,
+      "reality-check": -3,
+      "sad-memory": 0,
+      "self-indulgent": -5,
+      "unique-comment": 0
+    }
+  },
+  "maya": {
+    "chats": [
+      "joyful-memory",
+      "horror-story"
+    ],
+    "values": {
+      "advice": 4,
+      "belief": -1,
+      "bizarre-story": 1,
+      "comforting-cheer": 6,
+      "complain": -1,
+      "criticism": -1,
+      "cute-cheer": 4,
+      "dream": 3,
+      "food-story": 3,
+      "gossip": -1,
+      "happy-memory": 5,
+      "heroic-cheer": 8,
+      "heroic-tale": 6,
+      "horror-story": 3,
+      "interesting-story": 2,
+      "joyful-memory": 5,
+      "myth": 2,
+      "occult": -1,
+      "reality-check": 1,
+      "sad-memory": 1,
+      "self-indulgent": 0,
+      "unique-comment": 0
+    }
+  },
+  "mercedes": {
+    "chats": [
+      "reality-check",
+      "happy-memory"
+    ],
+    "values": {
+      "advice": 0,
+      "belief": 6,
+      "bizarre-story": -2,
+      "comforting-cheer": 2,
+      "complain": -8,
+      "criticism": 5,
+      "cute-cheer": 3,
+      "dream": 5,
+      "food-story": 3,
+      "gossip": -6,
+      "happy-memory": -3,
+      "heroic-cheer": 2,
+      "heroic-tale": 3,
+      "horror-story": -1,
+      "interesting-story": 2,
+      "joyful-memory": 6,
+      "myth": 0,
+      "occult": 3,
+      "reality-check": -2,
+      "sad-memory": 6,
+      "self-indulgent": -2,
+      "unique-comment": 3
+    }
+  },
+  "mirsa": {
+    "chats": [
+      "gossip",
+      "interesting-story"
+    ],
+    "values": {
+      "advice": 2,
+      "belief": 2,
+      "bizarre-story": -2,
+      "comforting-cheer": -2,
+      "complain": 1,
+      "criticism": 5,
+      "cute-cheer": 1,
+      "dream": -3,
+      "food-story": 0,
+      "gossip": 1,
+      "happy-memory": 0,
+      "heroic-cheer": 2,
+      "heroic-tale": -1,
+      "horror-story": 2,
+      "interesting-story": 0,
+      "joyful-memory": 1,
+      "myth": -1,
+      "occult": -1,
+      "reality-check": 5,
+      "sad-memory": 0,
+      "self-indulgent": -1,
+      "unique-comment": 3
+    }
+  },
+  "mistychain": {
+    "chats": [
+      "advice",
+      "self-indulgent"
+    ],
+    "values": {
+      "advice": 2,
+      "belief": 7,
+      "bizarre-story": -3,
+      "comforting-cheer": 5,
+      "complain": 1,
+      "criticism": 6,
+      "cute-cheer": 6,
+      "dream": 2,
+      "food-story": 0,
+      "gossip": 4,
+      "happy-memory": 0,
+      "heroic-cheer": 3,
+      "heroic-tale": 3,
+      "horror-story": 4,
+      "interesting-story": 1,
+      "joyful-memory": 2,
+      "myth": 2,
+      "occult": -3,
+      "reality-check": 3,
+      "sad-memory": 0,
+      "self-indulgent": -2,
+      "unique-comment": 2
+    }
+  },
+  "montmorancy": {
+    "chats": [
+      "comforting-cheer",
+      "dream"
+    ],
+    "values": {
+      "advice": 4,
+      "belief": 3,
+      "bizarre-story": 1,
+      "comforting-cheer": 5,
+      "complain": -2,
+      "criticism": -3,
+      "cute-cheer": 5,
+      "dream": 3,
+      "food-story": 4,
+      "gossip": 4,
+      "happy-memory": 4,
+      "heroic-cheer": 5,
+      "heroic-tale": 3,
+      "horror-story": -6,
+      "interesting-story": 3,
+      "joyful-memory": 4,
+      "myth": 3,
+      "occult": -1,
+      "reality-check": -5,
+      "sad-memory": 2,
+      "self-indulgent": -1,
+      "unique-comment": 0
+    }
+  },
+  "mucacha": {
+    "chats": [
+      "belief",
+      "complain"
+    ],
+    "values": {
+      "advice": 2,
+      "belief": 0,
+      "bizarre-story": -1,
+      "comforting-cheer": 3,
+      "complain": 2,
+      "criticism": 2,
+      "cute-cheer": 2,
+      "dream": 1,
+      "food-story": 2,
+      "gossip": 0,
+      "happy-memory": 2,
+      "heroic-cheer": 5,
+      "heroic-tale": 3,
+      "horror-story": 3,
+      "interesting-story": 0,
+      "joyful-memory": 4,
+      "myth": 1,
+      "occult": -2,
+      "reality-check": 1,
+      "sad-memory": 3,
+      "self-indulgent": -4,
+      "unique-comment": 0
+    }
+  },
+  "nemunas": {
+    "chats": [
+      "comforting-cheer",
+      "complain"
+    ],
+    "values": {
+      "advice": 4,
+      "belief": 4,
+      "bizarre-story": 1,
+      "comforting-cheer": 5,
+      "complain": -2,
+      "criticism": -3,
+      "cute-cheer": 5,
+      "dream": 3,
+      "food-story": 4,
+      "gossip": 4,
+      "happy-memory": 4,
+      "heroic-cheer": 5,
+      "heroic-tale": 3,
+      "horror-story": -6,
+      "interesting-story": 3,
+      "joyful-memory": 4,
+      "myth": 3,
+      "occult": -1,
+      "reality-check": -5,
+      "sad-memory": 2,
+      "self-indulgent": -1,
+      "unique-comment": 0
+    }
+  },
+  "otillie": {
+    "chats": [
+      "sad-memory",
+      "complain"
+    ],
+    "values": {
+      "advice": 5,
+      "belief": -3,
+      "bizarre-story": -1,
+      "comforting-cheer": 1,
+      "complain": 1,
+      "criticism": -1,
+      "cute-cheer": 3,
+      "dream": 3,
+      "food-story": 0,
+      "gossip": 1,
+      "happy-memory": 3,
+      "heroic-cheer": 2,
+      "heroic-tale": -3,
+      "horror-story": -2,
+      "interesting-story": 2,
+      "joyful-memory": 4,
+      "myth": 1,
+      "occult": -1,
+      "reality-check": -1,
+      "sad-memory": 5,
+      "self-indulgent": -2,
+      "unique-comment": 3
+    }
+  },
+  "pearlhorizon": {
+    "chats": [
+      "cute-cheer",
+      "unique-comment"
+    ],
+    "values": {
+      "advice": 5,
+      "belief": 4,
+      "bizarre-story": 3,
+      "comforting-cheer": 5,
+      "complain": -3,
+      "criticism": 5,
+      "cute-cheer": 1,
+      "dream": 4,
+      "food-story": -2,
+      "gossip": -5,
+      "happy-memory": 0,
+      "heroic-cheer": -1,
+      "heroic-tale": -3,
+      "horror-story": 5,
+      "interesting-story": 2,
+      "joyful-memory": 3,
+      "myth": -3,
+      "occult": 3,
+      "reality-check": 4,
+      "sad-memory": 5,
+      "self-indulgent": 1,
+      "unique-comment": 5
+    }
+  },
+  "purrgis": {
+    "chats": [
+      "sad-memory",
+      "horror-story"
+    ],
+    "values": {
+      "advice": -2,
+      "belief": 6,
+      "bizarre-story": 0,
+      "comforting-cheer": -2,
+      "complain": 1,
+      "criticism": 6,
+      "cute-cheer": 3,
+      "dream": 3,
+      "food-story": 2,
+      "gossip": 3,
+      "happy-memory": 1,
+      "heroic-cheer": 3,
+      "heroic-tale": 2,
+      "horror-story": 3,
+      "interesting-story": 1,
+      "joyful-memory": 3,
+      "myth": 4,
+      "occult": 2,
+      "reality-check": 0,
+      "sad-memory": -1,
+      "self-indulgent": 0,
+      "unique-comment": 1
+    }
+  },
+  "pyllis": {
+    "chats": [
+      "dream",
+      "joyful-memory"
+    ],
+    "values": {
+      "advice": 2,
+      "belief": -3,
+      "bizarre-story": -1,
+      "comforting-cheer": 3,
+      "complain": -1,
+      "criticism": -1,
+      "cute-cheer": 2,
+      "dream": 1,
+      "food-story": 6,
+      "gossip": -3,
+      "happy-memory": 2,
+      "heroic-cheer": 5,
+      "heroic-tale": 4,
+      "horror-story": -2,
+      "interesting-story": 1,
+      "joyful-memory": 3,
+      "myth": 1,
+      "occult": -2,
+      "reality-check": 1,
+      "sad-memory": 3,
+      "self-indulgent": -2,
+      "unique-comment": 1
+    }
+  },
+  "ras": {
+    "chats": [
+      "sad-memory",
+      "dream"
+    ],
+    "values": {
+      "advice": 7,
+      "belief": -4,
+      "bizarre-story": -3,
+      "comforting-cheer": 6,
+      "complain": -2,
+      "criticism": -8,
+      "cute-cheer": 4,
+      "dream": 5,
+      "food-story": 2,
+      "gossip": -1,
+      "happy-memory": 6,
+      "heroic-cheer": 5,
+      "heroic-tale": 0,
+      "horror-story": 0,
+      "interesting-story": 2,
+      "joyful-memory": 6,
+      "myth": 4,
+      "occult": -1,
+      "reality-check": -6,
+      "sad-memory": 8,
+      "self-indulgent": -3,
+      "unique-comment": 2
+    }
+  },
+  "ravi": {
+    "chats": [
+      "self-indulgent",
+      "food-story"
+    ],
+    "values": {
+      "advice": 6,
+      "belief": 0,
+      "bizarre-story": 2,
+      "comforting-cheer": 6,
+      "complain": -7,
+      "criticism": 8,
+      "cute-cheer": 4,
+      "dream": 2,
+      "food-story": 0,
+      "gossip": -4,
+      "happy-memory": 0,
+      "heroic-cheer": -6,
+      "heroic-tale": 2,
+      "horror-story": 3,
+      "interesting-story": 0,
+      "joyful-memory": 0,
+      "myth": 2,
+      "occult": 6,
+      "reality-check": -1,
+      "sad-memory": 4,
+      "self-indulgent": -2,
+      "unique-comment": 5
+    }
+  },
+  "requiemroar": {
+    "chats": [
+      "advice",
+      "complain"
+    ],
+    "values": {
+      "advice": 4,
+      "belief": 2,
+      "bizarre-story": 7,
+      "comforting-cheer": 4,
+      "complain": -4,
+      "criticism": 4,
+      "cute-cheer": 2,
+      "dream": 6,
+      "food-story": -2,
+      "gossip": -2,
+      "happy-memory": -1,
+      "heroic-cheer": -2,
+      "heroic-tale": -3,
+      "horror-story": 6,
+      "interesting-story": 6,
+      "joyful-memory": 1,
+      "myth": -2,
+      "occult": 4,
+      "reality-check": 1,
+      "sad-memory": 5,
+      "self-indulgent": 2,
+      "unique-comment": 7
+    }
+  },
+  "righteous-thief-roozid": {
+    "chats": [
+      "advice",
+      "belief"
+    ],
+    "values": {
+      "advice": 7,
+      "belief": -4,
+      "bizarre-story": -3,
+      "comforting-cheer": 6,
+      "complain": -2,
+      "criticism": -8,
+      "cute-cheer": 4,
+      "dream": 5,
+      "food-story": 2,
+      "gossip": -1,
+      "happy-memory": 6,
+      "heroic-cheer": 5,
+      "heroic-tale": 0,
+      "horror-story": 0,
+      "interesting-story": 2,
+      "joyful-memory": 6,
+      "myth": 4,
+      "occult": -1,
+      "reality-check": -6,
+      "sad-memory": 8,
+      "self-indulgent": -3,
+      "unique-comment": 2
+    }
+  },
+  "rikoris": {
+    "chats": [
+      "reality-check",
+      "complain"
+    ],
+    "values": {
+      "advice": 1,
+      "belief": 0,
+      "bizarre-story": 0,
+      "comforting-cheer": 3,
+      "complain": -1,
+      "criticism": -2,
+      "cute-cheer": 4,
+      "dream": 2,
+      "food-story": 4,
+      "gossip": 1,
+      "happy-memory": 2,
+      "heroic-cheer": 0,
+      "heroic-tale": 1,
+      "horror-story": -4,
+      "interesting-story": 2,
+      "joyful-memory": 3,
+      "myth": 0,
+      "occult": 0,
+      "reality-check": 0,
+      "sad-memory": 3,
+      "self-indulgent": -3,
+      "unique-comment": 2
+    }
+  },
+  "rima": {
+    "chats": [
+      "sad-memory",
+      "gossip"
+    ],
+    "values": {
+      "advice": 0,
+      "belief": 4,
+      "bizarre-story": 0,
+      "comforting-cheer": 0,
+      "complain": -3,
+      "criticism": 3,
+      "cute-cheer": 4,
+      "dream": 4,
+      "food-story": 1,
+      "gossip": -1,
+      "happy-memory": 2,
+      "heroic-cheer": 3,
+      "heroic-tale": 4,
+      "horror-story": 3,
+      "interesting-story": 3,
+      "joyful-memory": 6,
+      "myth": 1,
+      "occult": 4,
+      "reality-check": -3,
+      "sad-memory": 1,
+      "self-indulgent": 3,
+      "unique-comment": 3
+    }
+  },
+  "rin": {
+    "chats": [
+      "reality-check",
+      "comforting-cheer"
+    ],
+    "values": {
+      "advice": 0,
+      "belief": 6,
+      "bizarre-story": 0,
+      "comforting-cheer": 0,
+      "complain": -3,
+      "criticism": 3,
+      "cute-cheer": 4,
+      "dream": 4,
+      "food-story": 1,
+      "gossip": -1,
+      "happy-memory": 2,
+      "heroic-cheer": 3,
+      "heroic-tale": 3,
+      "horror-story": 3,
+      "interesting-story": 3,
+      "joyful-memory": 6,
+      "myth": 1,
+      "occult": 4,
+      "reality-check": -3,
+      "sad-memory": 1,
+      "self-indulgent": 3,
+      "unique-comment": 3
+    }
+  },
+  "romann": {
+    "chats": [
+      "complain",
+      "dream"
+    ],
+    "values": {
+      "advice": 0,
+      "belief": 0,
+      "bizarre-story": 0,
+      "comforting-cheer": -2,
+      "complain": 0,
+      "criticism": 2,
+      "cute-cheer": 1,
+      "dream": 0,
+      "food-story": 4,
+      "gossip": 0,
+      "happy-memory": 0,
+      "heroic-cheer": 0,
+      "heroic-tale": 1,
+      "horror-story": -2,
+      "interesting-story": 2,
+      "joyful-memory": 2,
+      "myth": 0,
+      "occult": 0,
+      "reality-check": 2,
+      "sad-memory": 0,
+      "self-indulgent": 0,
+      "unique-comment": 4
+    }
+  },
+  "roozid": {
+    "chats": [
+      "sad-memory",
+      "advice"
+    ],
+    "values": {
+      "advice": 5,
+      "belief": -1,
+      "bizarre-story": 0,
+      "comforting-cheer": 3,
+      "complain": 2,
+      "criticism": 5,
+      "cute-cheer": 6,
+      "dream": 5,
+      "food-story": 3,
+      "gossip": 2,
+      "happy-memory": 5,
+      "heroic-cheer": 5,
+      "heroic-tale": 0,
+      "horror-story": -1,
+      "interesting-story": 3,
+      "joyful-memory": 7,
+      "myth": 2,
+      "occult": 0,
+      "reality-check": -5,
+      "sad-memory": 6,
+      "self-indulgent": -1,
+      "unique-comment": 3
+    }
+  },
+  "rose": {
+    "chats": [
+      "self-indulgent",
+      "dream"
+    ],
+    "values": {
+      "advice": 5,
+      "belief": -4,
+      "bizarre-story": -5,
+      "comforting-cheer": 6,
+      "complain": -5,
+      "criticism": 0,
+      "cute-cheer": 5,
+      "dream": 2,
+      "food-story": 5,
+      "gossip": -3,
+      "happy-memory": 5,
+      "heroic-cheer": 0,
+      "heroic-tale": 8,
+      "horror-story": 0,
+      "interesting-story": 0,
+      "joyful-memory": 3,
+      "myth": 8,
+      "occult": 3,
+      "reality-check": -6,
+      "sad-memory": 3,
+      "self-indulgent": -4,
+      "unique-comment": 2
+    }
+  },
+  "ruele-of-light": {
+    "chats": [
+      "comforting-cheer",
+      "unique-comment"
+    ],
+    "values": {
+      "advice": 5,
+      "belief": -1,
+      "bizarre-story": 0,
+      "comforting-cheer": 3,
+      "complain": 2,
+      "criticism": -5,
+      "cute-cheer": 6,
+      "dream": 5,
+      "food-story": 3,
+      "gossip": 2,
+      "happy-memory": 5,
+      "heroic-cheer": 5,
+      "heroic-tale": 0,
+      "horror-story": -1,
+      "interesting-story": 3,
+      "joyful-memory": 7,
+      "myth": 2,
+      "occult": 0,
+      "reality-check": -5,
+      "sad-memory": 6,
+      "self-indulgent": -1,
+      "unique-comment": 3
+    }
+  },
+  "schuri": {
+    "chats": [
+      "complain",
+      "horror-story"
+    ],
+    "values": {
+      "advice": 0,
+      "belief": 4,
+      "bizarre-story": 0,
+      "comforting-cheer": 3,
+      "complain": -7,
+      "criticism": 5,
+      "cute-cheer": 4,
+      "dream": 6,
+      "food-story": 5,
+      "gossip": -3,
+      "happy-memory": -2,
+      "heroic-cheer": 5,
+      "heroic-tale": 4,
+      "horror-story": -1,
+      "interesting-story": 2,
+      "joyful-memory": 4,
+      "myth": 4,
+      "occult": 2,
+      "reality-check": 1,
+      "sad-memory": 2,
+      "self-indulgent": -1,
+      "unique-comment": 1
+    }
+  },
+  "serila": {
+    "chats": [
+      "happy-memory",
+      "self-indulgent"
+    ],
+    "values": {
+      "advice": 0,
+      "belief": 5,
+      "bizarre-story": -2,
+      "comforting-cheer": -2,
+      "complain": -2,
+      "criticism": 6,
+      "cute-cheer": 3,
+      "dream": 0,
+      "food-story": 2,
+      "gossip": 1,
+      "happy-memory": 1,
+      "heroic-cheer": 5,
+      "heroic-tale": 1,
+      "horror-story": 2,
+      "interesting-story": 0,
+      "joyful-memory": 1,
+      "myth": 3,
+      "occult": 1,
+      "reality-check": 3,
+      "sad-memory": -1,
+      "self-indulgent": 1,
+      "unique-comment": 1
+    }
+  },
+  "sez": {
+    "chats": [
+      "sad-memory",
+      "reality-check"
+    ],
+    "values": {
+      "advice": 3,
+      "belief": 3,
+      "bizarre-story": 5,
+      "comforting-cheer": 3,
+      "complain": -5,
+      "criticism": 3,
+      "cute-cheer": 1,
+      "dream": 2,
+      "food-story": 1,
+      "gossip": -3,
+      "happy-memory": -2,
+      "heroic-cheer": -3,
+      "heroic-tale": -2,
+      "horror-story": 3,
+      "interesting-story": 0,
+      "joyful-memory": 1,
+      "myth": -3,
+      "occult": 3,
+      "reality-check": 2,
+      "sad-memory": 4,
+      "self-indulgent": 1,
+      "unique-comment": 6
+    }
+  },
+  "shadow-rose": {
+    "chats": [
+      "dream",
+      "advice"
+    ],
+    "values": {
+      "advice": 2,
+      "belief": 6,
+      "bizarre-story": 5,
+      "comforting-cheer": -1,
+      "complain": -2,
+      "criticism": 3,
+      "cute-cheer": 2,
+      "dream": 2,
+      "food-story": 0,
+      "gossip": 3,
+      "happy-memory": -1,
+      "heroic-cheer": 1,
+      "heroic-tale": 0,
+      "horror-story": 6,
+      "interesting-story": 0,
+      "joyful-memory": 2,
+      "myth": 0,
+      "occult": 1,
+      "reality-check": -3,
+      "sad-memory": -3,
+      "self-indulgent": -3,
+      "unique-comment": 3
+    }
+  },
+  "shooting-star-achates": {
+    "chats": [
+      "unique-comment",
+      "interesting-story"
+    ],
+    "values": {
+      "advice": 2,
+      "belief": -1,
+      "bizarre-story": 1,
+      "comforting-cheer": 3,
+      "complain": 2,
+      "criticism": -1,
+      "cute-cheer": 4,
+      "dream": 6,
+      "food-story": 5,
+      "gossip": 2,
+      "happy-memory": 3,
+      "heroic-cheer": 3,
+      "heroic-tale": 2,
+      "horror-story": -4,
+      "interesting-story": 6,
+      "joyful-memory": 3,
+      "myth": 3,
+      "occult": 0,
+      "reality-check": -3,
+      "sad-memory": 3,
+      "self-indulgent": 3,
+      "unique-comment": 2
+    }
+  },
+  "sigret": {
+    "chats": [
+      "advice",
+      "occult"
+    ],
+    "values": {
+      "advice": 0,
+      "belief": 0,
+      "bizarre-story": 0,
+      "comforting-cheer": -2,
+      "complain": 0,
+      "criticism": 2,
+      "cute-cheer": 1,
+      "dream": 0,
+      "food-story": 4,
+      "gossip": 0,
+      "happy-memory": 0,
+      "heroic-cheer": 0,
+      "heroic-tale": 1,
+      "horror-story": -2,
+      "interesting-story": 2,
+      "joyful-memory": 2,
+      "myth": 0,
+      "occult": 0,
+      "reality-check": 2,
+      "sad-memory": 0,
+      "self-indulgent": 0,
+      "unique-comment": 4
+    }
+  },
+  "tamarinne": {
+    "chats": [
+      "complain",
+      "cute-cheer"
+    ],
+    "values": {
+      "advice": 5,
+      "belief": 4,
+      "bizarre-story": 2,
+      "comforting-cheer": 8,
+      "complain": -8,
+      "criticism": 1,
+      "cute-cheer": 5,
+      "dream": 4,
+      "food-story": 3,
+      "gossip": 0,
+      "happy-memory": -1,
+      "heroic-cheer": 5,
+      "heroic-tale": 3,
+      "horror-story": -2,
+      "interesting-story": 3,
+      "joyful-memory": 5,
+      "myth": 1,
+      "occult": 0,
+      "reality-check": -2,
+      "sad-memory": 3,
+      "self-indulgent": -6,
+      "unique-comment": 0
+    }
+  },
+  "silk": {
+    "chats": [
+      "food-story",
+      "happy-memory"
+    ],
+    "values": {
+      "advice": 5,
+      "belief": 4,
+      "bizarre-story": 2,
+      "comforting-cheer": 8,
+      "complain": -8,
+      "criticism": 1,
+      "cute-cheer": 5,
+      "dream": 4,
+      "food-story": 3,
+      "gossip": 0,
+      "happy-memory": -1,
+      "heroic-cheer": 5,
+      "heroic-tale": 3,
+      "horror-story": -2,
+      "interesting-story": 0,
+      "joyful-memory": 5,
+      "myth": 1,
+      "occult": 0,
+      "reality-check": -2,
+      "sad-memory": 3,
+      "self-indulgent": -6,
+      "unique-comment": 0
+    }
+  },
+  "specimen-sez": {
+    "chats": [
+      "belief",
+      "self-indulgent"
+    ],
+    "values": {
+      "advice": 5,
+      "belief": 6,
+      "bizarre-story": 10,
+      "comforting-cheer": 2,
+      "complain": -10,
+      "criticism": 3,
+      "cute-cheer": 1,
+      "dream": 4,
+      "food-story": -3,
+      "gossip": -3,
+      "happy-memory": -3,
+      "heroic-cheer": -2,
+      "heroic-tale": -3,
+      "horror-story": 8,
+      "interesting-story": 1,
+      "joyful-memory": 0,
+      "myth": -3,
+      "occult": 4,
+      "reality-check": -1,
+      "sad-memory": 1,
+      "self-indulgent": 0,
+      "unique-comment": 8
+    }
+  },
+  "spectre-tenebria": {
+    "chats": [
+      "joyful-memory",
+      "belief"
+    ],
+    "values": {
+      "advice": 5,
+      "belief": 6,
+      "bizarre-story": 10,
+      "comforting-cheer": 2,
+      "complain": -10,
+      "criticism": 3,
+      "cute-cheer": 1,
+      "dream": 4,
+      "food-story": -3,
+      "gossip": -3,
+      "happy-memory": -3,
+      "heroic-cheer": -2,
+      "heroic-tale": -3,
+      "horror-story": 8,
+      "interesting-story": 1,
+      "joyful-memory": 0,
+      "myth": -3,
+      "occult": 4,
+      "reality-check": -1,
+      "sad-memory": 1,
+      "self-indulgent": 0,
+      "unique-comment": 8
+    }
+  },
+  "surin": {
+    "chats": [
+      "advice",
+      "sad-memory"
+    ],
+    "values": {
+      "advice": 5,
+      "belief": -1,
+      "bizarre-story": 0,
+      "comforting-cheer": 3,
+      "complain": 2,
+      "criticism": -5,
+      "cute-cheer": 6,
+      "dream": 5,
+      "food-story": 3,
+      "gossip": 2,
+      "happy-memory": 5,
+      "heroic-cheer": 5,
+      "heroic-tale": 0,
+      "horror-story": -1,
+      "interesting-story": 3,
+      "joyful-memory": 7,
+      "myth": 2,
+      "occult": 0,
+      "reality-check": -5,
+      "sad-memory": 6,
+      "self-indulgent": -1,
+      "unique-comment": 1
+    }
+  },
+  "sven": {
+    "chats": [
+      "dream",
+      "gossip"
+    ],
+    "values": {
+      "advice": 4,
+      "belief": 0,
+      "bizarre-story": 0,
+      "comforting-cheer": 6,
+      "complain": -3,
+      "criticism": -5,
+      "cute-cheer": 4,
+      "dream": 4,
+      "food-story": 3,
+      "gossip": 0,
+      "happy-memory": 5,
+      "heroic-cheer": 6,
+      "heroic-tale": 6,
+      "horror-story": 5,
+      "interesting-story": 3,
+      "joyful-memory": 6,
+      "myth": 4,
+      "occult": 1,
+      "reality-check": -3,
+      "sad-memory": 1,
+      "self-indulgent": 1,
+      "unique-comment": 2
+    }
+  },
+  "taranor-guard": {
+    "chats": [
+      "heroic-cheer",
+      "horror-story"
+    ],
+    "values": {
+      "advice": 4,
+      "belief": -4,
+      "bizarre-story": -3,
+      "comforting-cheer": 6,
+      "complain": -4,
+      "criticism": -6,
+      "cute-cheer": 2,
+      "dream": 3,
+      "food-story": 4,
+      "gossip": -5,
+      "happy-memory": 5,
+      "heroic-cheer": 8,
+      "heroic-tale": 6,
+      "horror-story": 2,
+      "interesting-story": 1,
+      "joyful-memory": 5,
+      "myth": 4,
+      "occult": -2,
+      "reality-check": -2,
+      "sad-memory": 6,
+      "self-indulgent": -3,
+      "unique-comment": 2
+    }
+  },
+  "taranor-royal-guard": {
+    "chats": [
+      "belief",
+      "advice"
+    ],
+    "values": {
+      "advice": 4,
+      "belief": -2,
+      "bizarre-story": -1,
+      "comforting-cheer": 8,
+      "complain": -6,
+      "criticism": 1,
+      "cute-cheer": 3,
+      "dream": 4,
+      "food-story": 5,
+      "gossip": -6,
+      "happy-memory": -1,
+      "heroic-cheer": 7,
+      "heroic-tale": 5,
+      "horror-story": -1,
+      "interesting-story": 1,
+      "joyful-memory": 5,
+      "myth": 1,
+      "occult": -2,
+      "reality-check": 2,
+      "sad-memory": 6,
+      "self-indulgent": -5,
+      "unique-comment": 0
+    }
+  },
+  "tenebria": {
+    "chats": [
+      "dream",
+      "joyful-memory"
+    ],
+    "values": {
+      "advice": 5,
+      "belief": 6,
+      "bizarre-story": 10,
+      "comforting-cheer": 2,
+      "complain": -10,
+      "criticism": 3,
+      "cute-cheer": 1,
+      "dream": 4,
+      "food-story": -3,
+      "gossip": -3,
+      "happy-memory": -3,
+      "heroic-cheer": -2,
+      "heroic-tale": -3,
+      "horror-story": 3,
+      "interesting-story": 1,
+      "joyful-memory": 0,
+      "myth": -3,
+      "occult": 4,
+      "reality-check": -1,
+      "sad-memory": 1,
+      "self-indulgent": 0,
+      "unique-comment": 8
+    }
+  },
+  "tieria": {
+    "chats": [
+      "happy-memory",
+      "gossip"
+    ],
+    "values": {
+      "advice": 2,
+      "belief": 1,
+      "bizarre-story": -2,
+      "comforting-cheer": 2,
+      "complain": 2,
+      "criticism": 2,
+      "cute-cheer": 2,
+      "dream": 2,
+      "food-story": 5,
+      "gossip": -2,
+      "happy-memory": 2,
+      "heroic-cheer": 2,
+      "heroic-tale": 1,
+      "horror-story": -2,
+      "interesting-story": 2,
+      "joyful-memory": 4,
+      "myth": 0,
+      "occult": 0,
+      "reality-check": 2,
+      "sad-memory": 1,
+      "self-indulgent": 0,
+      "unique-comment": 1
+    }
+  },
+  "tywin": {
+    "chats": [
+      "advice",
+      "happy-memory"
+    ],
+    "values": {
+      "advice": 7,
+      "belief": -6,
+      "bizarre-story": -2,
+      "comforting-cheer": 6,
+      "complain": 0,
+      "criticism": -4,
+      "cute-cheer": 4,
+      "dream": 4,
+      "food-story": 2,
+      "gossip": -2,
+      "happy-memory": 5,
+      "heroic-cheer": 7,
+      "heroic-tale": 0,
+      "horror-story": -2,
+      "interesting-story": 1,
+      "joyful-memory": 5,
+      "myth": 2,
+      "occult": -3,
+      "reality-check": -2,
+      "sad-memory": 8,
+      "self-indulgent": -4,
+      "unique-comment": 0
+    }
+  },
+  "vildred": {
+    "chats": [
+      "belief",
+      "horror-story"
+    ],
+    "values": {
+      "advice": 4,
+      "belief": -4,
+      "bizarre-story": -3,
+      "comforting-cheer": 6,
+      "complain": -4,
+      "criticism": -6,
+      "cute-cheer": 2,
+      "dream": 3,
+      "food-story": 4,
+      "gossip": -5,
+      "happy-memory": 5,
+      "heroic-cheer": 8,
+      "heroic-tale": 6,
+      "horror-story": 2,
+      "interesting-story": 1,
+      "joyful-memory": 5,
+      "myth": 4,
+      "occult": -2,
+      "reality-check": -2,
+      "sad-memory": 6,
+      "self-indulgent": -3,
+      "unique-comment": 2
+    }
+  },
+  "violet": {
+    "chats": [
+      "heroic-tale",
+      "sad-memory"
+    ],
+    "values": {
+      "advice": 4,
+      "belief": 5,
+      "bizarre-story": -1,
+      "comforting-cheer": 8,
+      "complain": -2,
+      "criticism": 3,
+      "cute-cheer": 8,
+      "dream": 4,
+      "food-story": 1,
+      "gossip": 3,
+      "happy-memory": 2,
+      "heroic-cheer": 6,
+      "heroic-tale": 6,
+      "horror-story": 0,
+      "interesting-story": 3,
+      "joyful-memory": 3,
+      "myth": 3,
+      "occult": -2,
+      "reality-check": 3,
+      "sad-memory": -2,
+      "self-indulgent": 2,
+      "unique-comment": 2
+    }
+  },
+  "wanda": {
+    "chats": [
+      "unique-comment",
+      "complain"
+    ],
+    "values": {
+      "advice": 2,
+      "belief": 0,
+      "bizarre-story": 2,
+      "comforting-cheer": 3,
+      "complain": 5,
+      "criticism": 5,
+      "cute-cheer": 3,
+      "dream": 0,
+      "food-story": 2,
+      "gossip": 4,
+      "happy-memory": 2,
+      "heroic-cheer": -3,
+      "heroic-tale": -1,
+      "horror-story": 1,
+      "interesting-story": 3,
+      "joyful-memory": 5,
+      "myth": -3,
+      "occult": 2,
+      "reality-check": -3,
+      "sad-memory": 3,
+      "self-indulgent": -4,
+      "unique-comment": 1
+    }
+  },
+  "wanderer-silk": {
+    "chats": [
+      "self-indulgent",
+      "advice"
+    ],
+    "values": {
+      "advice": 3,
+      "belief": 4,
+      "bizarre-story": -3,
+      "comforting-cheer": 8,
+      "complain": -3,
+      "criticism": 1,
+      "cute-cheer": 8,
+      "dream": 4,
+      "food-story": 0,
+      "gossip": 2,
+      "happy-memory": 2,
+      "heroic-cheer": 3,
+      "heroic-tale": 3,
+      "horror-story": -5,
+      "interesting-story": 2,
+      "joyful-memory": 2,
+      "myth": 2,
+      "occult": -3,
+      "reality-check": 3,
+      "sad-memory": 3,
+      "self-indulgent": -3,
+      "unique-comment": 3
+    }
+  },
+  "watcher-schuri": {
+    "chats": [
+      "unique-comment",
+      "advice"
+    ],
+    "values": {
+      "advice": 5,
+      "belief": -1,
+      "bizarre-story": 0,
+      "comforting-cheer": 3,
+      "complain": 2,
+      "criticism": -5,
+      "cute-cheer": 6,
+      "dream": 5,
+      "food-story": 3,
+      "gossip": 2,
+      "happy-memory": 5,
+      "heroic-cheer": 5,
+      "heroic-tale": 0,
+      "horror-story": -1,
+      "interesting-story": 3,
+      "joyful-memory": 7,
+      "myth": 2,
+      "occult": 0,
+      "reality-check": -5,
+      "sad-memory": 6,
+      "self-indulgent": -1,
+      "unique-comment": 3
+    }
+  },
+  "yufine": {
+    "chats": [
+      "cute-cheer",
+      "advice"
+    ],
+    "values": {
+      "advice": 2,
+      "belief": 3,
+      "bizarre-story": 3,
+      "comforting-cheer": 3,
+      "complain": 1,
+      "criticism": -2,
+      "cute-cheer": 6,
+      "dream": 4,
+      "food-story": 4,
+      "gossip": 3,
+      "happy-memory": 4,
+      "heroic-cheer": 6,
+      "heroic-tale": 6,
+      "horror-story": 4,
+      "interesting-story": 4,
+      "joyful-memory": 7,
+      "myth": 2,
+      "occult": 2,
+      "reality-check": -2,
+      "sad-memory": -1,
+      "self-indulgent": 3,
+      "unique-comment": 3
+    }
+  },
+  "yuna": {
+    "chats": [
+      "bizarre-story",
+      "complain"
+    ],
+    "values": {
+      "advice": 3,
+      "belief": 1,
+      "bizarre-story": 2,
+      "comforting-cheer": 4,
+      "complain": 1,
+      "criticism": 2,
+      "cute-cheer": 4,
+      "dream": 2,
+      "food-story": 1,
+      "gossip": 4,
+      "happy-memory": 2,
+      "heroic-cheer": 4,
+      "heroic-tale": 3,
+      "horror-story": -2,
+      "interesting-story": 4,
+      "joyful-memory": 3,
+      "myth": 6,
+      "occult": 4,
+      "reality-check": 2,
+      "sad-memory": -2,
+      "self-indulgent": 7,
+      "unique-comment": -3
+    }
+  },
+  "zeno": {
+    "chats": [
+      "self-indulgent",
+      "occult"
+    ],
+    "values": {
+      "advice": 1,
+      "belief": 0,
+      "bizarre-story": -3,
+      "comforting-cheer": 1,
+      "complain": -4,
+      "criticism": 8,
+      "cute-cheer": 6,
+      "dream": 3,
+      "food-story": 5,
+      "gossip": -1,
+      "happy-memory": 3,
+      "heroic-cheer": 0,
+      "heroic-tale": 7,
+      "horror-story": -2,
+      "interesting-story": 0,
+      "joyful-memory": 1,
+      "myth": 9,
+      "occult": 5,
+      "reality-check": -3,
+      "sad-memory": -1,
+      "self-indulgent": -1,
+      "unique-comment": 1
+    }
+  },
+  "zerato": {
+    "chats": [
+      "self-indulgent",
+      "complain"
+    ],
+    "values": {
+      "advice": 0,
+      "belief": 2,
+      "bizarre-story": 1,
+      "comforting-cheer": 0,
+      "complain": 1,
+      "criticism": -2,
+      "cute-cheer": 4,
+      "dream": 2,
+      "food-story": 7,
+      "gossip": 1,
+      "happy-memory": 2,
+      "heroic-cheer": 3,
+      "heroic-tale": 4,
+      "horror-story": -1,
+      "interesting-story": 3,
+      "joyful-memory": 5,
+      "myth": 1,
+      "occult": 1,
+      "reality-check": -2,
+      "sad-memory": 1,
+      "self-indulgent": 1,
+      "unique-comment": 4
+    }
+  },
+  "charles": {
+    "chats": [
+      "joyful-memory",
+      "dream"
+    ],
+    "values": {
+      "advice": 4,
+      "belief": 0,
+      "bizarre-story": -3,
+      "comforting-cheer": 6,
+      "complain": 1,
+      "criticism": -4,
+      "cute-cheer": 1,
+      "dream": 3,
+      "food-story": 3,
+      "gossip": -4,
+      "happy-memory": 4,
+      "heroic-cheer": 7,
+      "heroic-tale": 4,
+      "horror-story": 0,
+      "interesting-story": 0,
+      "joyful-memory": 4,
+      "myth": 4,
+      "occult": -5,
+      "reality-check": 1,
+      "sad-memory": 7,
+      "self-indulgent": -2,
+      "unique-comment": 2
+    }
+  },
+  "lidica": {
+    "chats": [
+      "joyful-memory",
+      "sad-memory"
+    ],
+    "values": {
+      "advice": 2,
+      "belief": 5,
+      "bizarre-story": -1,
+      "comforting-cheer": 3,
+      "complain": 3,
+      "criticism": -5,
+      "cute-cheer": 3,
+      "dream": 4,
+      "food-story": 4,
+      "gossip": 0,
+      "happy-memory": 4,
+      "heroic-cheer": 5,
+      "heroic-tale": 3,
+      "horror-story": 1,
+      "interesting-story": 2,
+      "joyful-memory": 6,
+      "myth": 4,
+      "occult": -2,
+      "reality-check": -2,
+      "sad-memory": 5,
+      "self-indulgent": 1,
+      "unique-comment": 5
+    }
+  }
+}
+
