@@ -12,7 +12,7 @@ namespace Epic7Math
         static void Main(string[] args)
         {
             List<CharModel> charModels = LoadCharactersData();
-            //Input the character list here:
+
            var list = new List<string> { "Bellona", "Kise", "Angelica", "Luna", "tamarinne", "kluri", "lorina", "taranor-guard"};
            
 
