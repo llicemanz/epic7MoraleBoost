@@ -9,6 +9,7 @@ namespace Epic7Math
 {
     class Program
     {
+        private const string LibraryFile = "library.json";
         static void Main(string[] args)
         {
             List<CharModel> charModels = LoadCharactersData();
@@ -37,7 +38,6 @@ namespace Epic7Math
                     tempCharList.Add(tempChar);
                 }
                 bestTeamList.Add(GetTeamMoraleBoost(tempCharList));
-                
             }
 
             bestTeamList.Sort((x, y) => y.TotalMoraleBoost.CompareTo(x.TotalMoraleBoost));
@@ -77,7 +77,7 @@ namespace Epic7Math
             tempMoraleBoostList.TeamList = characterList;
             tempMoraleBoostList.TotalMoraleBoost = tempCharacterMoraleBoost[0].MoraleBoost + tempCharacterMoraleBoost[1].MoraleBoost;
             if(tempCharacterMoraleBoost[0].Characterchat != tempCharacterMoraleBoost[1].Characterchat)
-            { 
+            {
                 tempMoraleBoostList.MoraleBoostList = new List<CharacterMoraleBoost>
                 {
                     tempCharacterMoraleBoost[0],
@@ -115,12 +115,12 @@ namespace Epic7Math
                 foreach(CharModel tempChar in characterList)
                 {
                     if(character.Name != tempChar.Name)
-                    { 
+                    {
                     moraleBoost += tempChar.values[character.Charts.Chat1];
                     }
                 }
                 tempCharacterMoraleBoostChat.MoraleBoost = moraleBoost;
-                
+
             }
             else if (chat == 2)
             {
@@ -135,7 +135,6 @@ namespace Epic7Math
                     }
                 }
                 tempCharacterMoraleBoostChat.MoraleBoost = moraleBoost;
-                
             }
             else
             {
@@ -149,7 +148,9 @@ namespace Epic7Math
         {
             List<CharModel> charModels = new List<CharModel>();
             List<string> tempList = new List<string>();
-            using (StreamReader r = new StreamReader(Directory.GetCurrentDirectory() + @"\library.json"))
+            var libraryDir = Directory.GetCurrentDirectory() +
+                Path.DirectorySeparatorChar + LibraryFile;
+            using (StreamReader r = new StreamReader(libraryDir))
             {
                 string json = r.ReadToEnd();
                 dynamic charList = JObject.Parse(json);
