@@ -11,21 +11,9 @@ namespace Epic7Math
     {
         static void Main(string[] args)
         {
+            checkInput(args);
             List<CharModel> charModels = LoadCharactersData();
-
-           var list = new List<string> { "Bellona", "Kise", "Angelica", "Luna", "tamarinne", "kluri", "lorina", "taranor-guard"};
-           
-
-            //All Characters
-            //var list = new List<string>();
-            //foreach (CharModel charac in charModels)
-            //{
-            //    list.Add(charac.Name);
-            //    //Console.WriteLine(charac.Name + ",");
-            //}
-
-
-            var result = GetPermutations(list, 4);
+            var result = GetPermutations(args.ToList(), 4);
             List<TeamMoraleBoost> bestTeamList = new List<TeamMoraleBoost>();
             foreach(var tempPart in result)
             {
@@ -56,11 +44,18 @@ namespace Epic7Math
                 //}
                 totalboost++;
             }
-            Console.WriteLine(totalboost);
             Debug.WriteLine(totalboost);
 
         }
 
+        private static void checkInput(string[] args)
+        {
+            if (args.Length < 6) {
+                Console.WriteLine("Please provide at least 6 characters");
+                Console.WriteLine("Usage: char1 char2 char3 char4 char5 ...char6");
+                System.Environment.Exit(1);
+            }
+        }
 
         static TeamMoraleBoost GetTeamMoraleBoost(List<CharModel> characterList)
         {
